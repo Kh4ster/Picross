@@ -1,0 +1,10 @@
+free everything at the end and the linked list   XX
+problem if size of image bigger than 99 (cause 3 digits)  XX
+do image mode
+finish high score menu XX
+after realoc with maw width and height  XX
+handle if only 0
+change image mode so that really random in loadgame
+
+
+IF NOT FULL SCREEN CHANGE SETTINGS
